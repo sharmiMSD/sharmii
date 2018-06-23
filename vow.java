@@ -5,7 +5,7 @@ class vow
 public static void main(String arg[])
 {
 Sacnner sc=new Scanner(System.in);
-char c=sc.next();
+char ch=sc.next();
 System.out.print('Enter the character");
 if(ch=='a'||ch=='e'||ch=='i'||ch=='o'||ch=='u'||ch=='A'||ch=='E'||ch=='I'||ch=='O'||ch=='U')
 {
