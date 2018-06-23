@@ -15,4 +15,7 @@ else if((ch>='a'&&ch<='z')||(ch>='A'&&ch<='Z'))
 System.out.print("Entered character is consonant");
 else
 {
-System.out.print("not an alphabet"
+System.out.print("not an alphabet")
+}
+   }
+   }
